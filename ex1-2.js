@@ -3,7 +3,7 @@ function textchange1(){
 }
 
 function imgchange1(){
-    document/getElementById('logo').src = './image/ダウンロード.png';
+    document.getElementById('logo').src = './image/ダウンロード.png';
 } 
 
 
