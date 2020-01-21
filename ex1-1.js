@@ -1,3 +1,3 @@
 function imgchange1(){
-    ducument.getElementById('logo').src='./image/bulbon.gif';
+    ducument.getElementById('logo').src='./image/GUNMA2.jpg';
 }
