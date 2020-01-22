@@ -4,7 +4,7 @@ function sayhello13(){
     alert('10月28日,'+who13+'!');
 }
 function gunmakentakasakishi13(){
-    who13=('群馬県高崎市,'+who13+'!');
+    alert('群馬県高崎市,'+who13+'!');
 }
 function karate13(){
     who13='空手';
