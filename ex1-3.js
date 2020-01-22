@@ -1,5 +1,5 @@
 
-var who13 = '大野陽輝';
+var who13 = 'だよ';
 function sayhello13(){
     alert('10月28日,'+who13+'!');
 }
