@@ -7,5 +7,5 @@ function gunmakentakasakishi13(){
     alert('群馬県高崎市,'+who13+'!');
 }
 function karate13(){
-    who13='空手';
+    alert('空手,'+who13+'!');
 }
