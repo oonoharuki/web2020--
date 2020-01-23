@@ -11,5 +11,5 @@ else{
     //全て表示されたら、空文字に戻す
 document.timer.moji.value = "";}}
 function startfnc(){
-    //関数hyoji()をミリ秒間隔で呼び出す
-setinterval("hyoji()",1000);}
+    //setTimeout()を含む関数を呼び出す
+setTimeout("hyoji()",1000);}
