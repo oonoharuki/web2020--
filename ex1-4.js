@@ -17,5 +17,5 @@ function startfnc(){
 setInterval("hyoji()",1000);}
 
 function mes(){
-    alert("ありがとうございました!");
+    alert("日商簿記1級の勉強、web開発の復習と応用をやってみたいと思います!!!");
 }
