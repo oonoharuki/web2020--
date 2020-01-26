@@ -5,7 +5,7 @@ var str="ご清聴ありがとうございました!!";
 //テキストボックスの文字数
 var cnt = document.timer.moji.value.length;
 //文字が全部表示されているか確認
-if( cnt < 11 ){
+if( cnt < 16 ){
 //現在より１文字多く切り出して表示
 document.timer.moji.value = str.substr(0,cnt+1);}
 else{
