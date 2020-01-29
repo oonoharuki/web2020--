@@ -2,7 +2,7 @@ body{background-color:  rgba(255, 251, 1, 0.897);}
 h1{background:linear-gradient(rgb(60, 240, 60))}
 h2{background:linear-gradient(rgb(60, 240, 60))}
 h3{background:linear-gradient(rgb(60, 240, 60))}
-p{text-underline-position:linear-gradient(rgb(60, 240, 60))}
+p{background:linear-gradient(rgb(60, 240, 60))}
 
 
 h1{color:green;}
