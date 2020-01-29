@@ -13,8 +13,8 @@ else{
 document.timer.moji.value ="";}}
 
 function startfnc(){
-//関数hyoji()を2300ミリ間隔呼び出す
-setInterval("hyoji()",2300);}
+//関数hyoji()を2000ミリ間隔呼び出す
+setInterval("hyoji()",2000);}
 
 function mes(){
     alert("日商簿記1級の勉強、web開発の復習と応用に挑戦したいと思います!!!");
